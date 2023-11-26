@@ -68,7 +68,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Design Distributed Message Queue like Kafka](https://www.youtube.com/watch?v=iJLL-KPqBpM)
 - [Design Flight Booking System](https://www.youtube.com/watch?v=qsGcfVGvFSs)
 - [Design Online Code Editor](https://www.youtube.com/watch?v=07jkn4jUtso)
-- [Design Stock Exchange System](https://www.youtube.com/watch?v=dUMWMZmMsVE)
+- [Design Stock Exchange System](https://youtu.be/XuKs2kWH0mQ?si=iDv5N47XtnV5xLnD)
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
