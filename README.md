@@ -48,6 +48,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
+- [Design TypeAhead Suggestion for Search Engine](https://astikanand.github.io/techblogs/high-level-system-design/design-typeahead-suggestion)
 ### Medium
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
